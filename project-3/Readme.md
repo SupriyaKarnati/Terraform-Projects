@@ -17,7 +17,7 @@ This project creates a basic AWS infrastructure using Terraform. The infrastruct
 Before you begin, ensure you have the following:
 
 - **AWS Account**: An active AWS account.
-- **AWS CLI/SDK or Terraform**: This project uses Terraform to manage infrastructure.
+- **Terraform**: This project uses Terraform to manage infrastructure.
 - **IAM Permissions**: Ensure your IAM user has the necessary permissions to create AWS resources such as VPC, EC2, Security Group, and IAM Key Pairs.
 
 ## Resources Created
